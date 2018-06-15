@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "780765360988",
+    "firebase_url": "https://ninjachat-debe1.firebaseio.com",
+    "project_id": "ninjachat-debe1",
+    "storage_bucket": "ninjachat-debe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780765360988:android:442ce5b23ec8b9cf",
+        "android_client_info": {
+          "package_name": "com.example.nishantvarshney.ninjachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780765360988-0lmv3llpfr806megqoc9qad1245mhq0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishantvarshney.ninjachat",
+            "certificate_hash": "c4f340c421bba728b44e9f99881d0af919a4511b"
+          }
+        },
+        {
+          "client_id": "780765360988-5i5i6flcrso964k2g602ufsqvv6h4m1c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "780765360988-5i5i6flcrso964k2g602ufsqvv6h4m1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOzUgantbNK3mq1MmnenShWLi0zExEcvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780765360988-5i5i6flcrso964k2g602ufsqvv6h4m1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
